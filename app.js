@@ -1,5 +1,4 @@
 // Type conversion - bir turdagi ma'lumotni boshqa turdagi ma'lumotga o'tishi
-
 // 1. String to Number 
 let str = '123' // string
 console.log(str) ;
